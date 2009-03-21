@@ -93,5 +93,3 @@ jQuery(function($) {
 jQuery(function() {
 	jQuery.djDebug();
 });
-$ = _$;
-
